@@ -8,6 +8,8 @@ A web service website for ordering medicine and searching for Pharmacies using b
 * Class Diagram
 * ERD (Entity Relation Diagram)
 
-## Sample Image for Testing 
+## Snippets
 ### 
-![image](test.PNG)
+![image](images/2.PNG)
+![image](images/1.PNG)
+![image](images/3.PNG)
